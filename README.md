@@ -9,7 +9,7 @@ A complete Student Management System developed using SAP ABAP.
 -  Result Reporting using Join
 
 ## Technologies Used
-- SAP ABAP
+- SAP ABAP                                                                         
 - SE11 (Data Dictionary)
 - SE38 (Executable Programs)
 

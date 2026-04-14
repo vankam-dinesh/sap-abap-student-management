@@ -6,7 +6,7 @@ A complete Student Management System developed using SAP ABAP.
 ## Features                                                                                                                                                                                                                                        
 - Student Master Data Entry                                                             
 - Marks Entry with Grade Calculation
--  Result Reporting using Join
+-  Result Reporting using Join                                           
 
 ## Technologies Used
 - SAP ABAP                                                                                                                                           
